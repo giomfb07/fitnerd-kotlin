@@ -1,5 +1,5 @@
 # Treinando Kotlin
-<h1 align="center">💻Lista de exercícios para treinar Kotlin</h1>
+<h1 align="center">💻 Caixas de seleção no Kotlin</h1>
 <h3 align="center">
 <a href="https://appmaster.io/api/_files/bLzbyrE3kokyk9p7QthYmA/download/"></a>
 </h3>
@@ -14,7 +14,7 @@
 </p>
 
 <h2 align="center" id=status> 
-    :beginner: Initiated :beginner:
+    Initiated
 </h2>
 
 <h2 id=objective>:scroll: Objective</h2>
