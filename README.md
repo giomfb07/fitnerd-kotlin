@@ -1,8 +1,12 @@
-# Treinando Kotlin
-<h1 align="center">💻 Caixas de seleção no Kotlin</h1>
+# Developing Kotlin
+<h1 align="center"> Checkbox in Kotlin</h1>
 <h3 align="center">
 <a href="https://appmaster.io/api/_files/bLzbyrE3kokyk9p7QthYmA/download/"></a>
 </h3>
+
+<h2 align="center" id=status> 
+   :dizzy: Initiated :dizzy:
+</h2>
 
 <p align="center">
  <a href="#status">Status</a> • 
@@ -13,13 +17,8 @@
  <a href="#licence">License</a>
 </p>
 
-<h2 align="center" id=status> 
-    Initiated
-</h2>
-
 <h2 id=objective>:scroll: Objective</h2>
-The goal is to improve programming logic.<br>
-the goal is to learn kotlin<br>
+The goal is to learn kotlin<br>
 Learn new compilers.
 
 <h2 id=installation>:clipboard: Installation</h2>
@@ -27,14 +26,14 @@ Learn new compilers.
 1. Clone the repo.
 2. Install Android Studio.
 
-<h2 id=technology>:toolbox: Technology</h2>
+<h2 id=technology>:computer: Technology</h2>
 
 The following tools were used in the construction of the project:
 
-IDE: <a href="https://developer.android.com/studio/install?hl=pt-br">Android Studio</a>
+IDE: <a href="https://developer.android.com/studio/install?hl=pt-br">Android Studio</a> <br>
 SDK: <a href="https://www.jdoodle.com/compile-kotlin-online">Kotlin Online Compiler</a>
 
-<h2 id=author>:grin: Author</h2>
+<h2 id=author>:blush: Author</h2>
 
 Developed by <a href="https://github.com/giomfb07" target="_blank">Giovanna Marques Freire Barbosa</a>
 
